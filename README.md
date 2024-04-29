@@ -33,7 +33,6 @@ Hi there, I'm <strong>Francesco Foti</strong>, a <strong>Software Engineering st
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
