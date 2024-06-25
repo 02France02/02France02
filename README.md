@@ -14,14 +14,14 @@
 <br />
 <br />
 
-Hi there, I'm <strong>Francesco Foti</strong>, a <strong>Software Engineering student</strong> 🚀. Currently, I'm learning **React, Node, SQL, and more!**
+Hi there, I'm <strong>Francesco Foti</strong>, a <strong>Software Engineering student</strong> 🚀. 
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Myself**
 
 - 🤔 My interests are in Computer Science, Artificial Intelligence, Hardware, Front/Back-End Programming, Sports;
-- 💬 Ask me about React, HTML, JS, CSS, TypeScript;
+- 💬 Ask me about React, Tailwind, HTML, JS, CSS, TypeScript, MySQL Workbench, Node.js;
 - 📫 You can reach me via email at Francescoofoti44@gmail.com.
 
 **Connect with me:**
